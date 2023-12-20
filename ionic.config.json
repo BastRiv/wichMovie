@@ -1,0 +1,7 @@
+{
+  "name": "wichMovie",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
